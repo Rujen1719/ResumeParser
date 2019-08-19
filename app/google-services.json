@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "271501562526",
+    "firebase_url": "https://resumeparser2.firebaseio.com",
+    "project_id": "resumeparser2",
+    "storage_bucket": "resumeparser2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271501562526:android:65a80aa8c27886be",
+        "android_client_info": {
+          "package_name": "com.example.resumeparser2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271501562526-lnapbgu2mkcq4o2vdbv4pfre2gkqfbli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.resumeparser2",
+            "certificate_hash": "f8a2c944dcbb89c3f7ca530870c4c47edf2d140e"
+          }
+        },
+        {
+          "client_id": "271501562526-54vvmsn3nmaq705m0g182jipcph6gdlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNyRV_rkblvGQH7Z_3C42mS1tV3K9o5WQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271501562526-54vvmsn3nmaq705m0g182jipcph6gdlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

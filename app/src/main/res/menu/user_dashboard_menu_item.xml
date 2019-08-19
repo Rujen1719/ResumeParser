@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/user_navigation_bookmarks"
+        android:icon="@drawable/icon_bookmark_black"
+        android:title="Bookmarks" />
+
+    <item
+        android:id="@+id/user_navigation_home"
+        android:icon="@drawable/icon_home_black"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/user_navigation_me"
+        android:icon="@drawable/icon_person_black"
+        android:title="Me" />
+
+</menu>
