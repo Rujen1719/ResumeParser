@@ -203,5 +203,4 @@ public class ResumeDetailsActivity extends AppCompatActivity implements BottomNa
         myDialog.getWindow().setBackgroundDrawable(new ColorDrawable(Color.TRANSPARENT));
         myDialog.show();
     }
-
 }

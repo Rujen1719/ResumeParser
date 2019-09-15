@@ -143,6 +143,4 @@ public class PersonalDetailsFragment extends Fragment {
         });
         return mMainView;
     }
-
-
 }
